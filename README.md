@@ -25,4 +25,3 @@ A data-driven dive into the performance metrics of the Nasdaq-100. This project 
 - #### [Lucid Point Consult: Strategic Requirements Engineering & Digital Implementation Framework](https://github.com/Ola-raji/Lucid-Point-Consult-Strategic-Requirements-Engineering-Digital-Implementation-Framework)
 A comprehensive end-to-end volunteer undertaking for a premier Nigerian consulting firm. I fucntioned as the business analyst leading the transition of a new brand into a high-authority digital ecosystem.
 
----
