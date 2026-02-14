@@ -26,7 +26,3 @@ A data-driven dive into the performance metrics of the Nasdaq-100. This project 
 A comprehensive end-to-end volunteer undertaking for a premier Nigerian consulting firm. I fucntioned as the business analyst leading the transition of a new brand into a high-authority digital ecosystem.
 
 ---
-### 📈 Currently Working On...
-- 🔭 Deepening my knowledge in **FinOps** frameworks for cloud cost management.
-- 🌱 Expanding my portfolio in automated financial reporting. 
----
