@@ -10,11 +10,6 @@ I am a keen and curious **Financial Professional** and **Data Enthusiast** with 
 - Business Analysis
 - Investment Analysis
 
-### 🛠 Technical Toolkit
-* **Analysis:** Financial Modeling, Valuation, Forecasting.
-* **Tools:** Excel (Advanced), SQL, Python, Power BI/Tableau.
-* **Methodologies:** Requirements Engineering, Agile PM, Strategic Planning.
-
 ---
 
 ### 📂 Featured Projects
