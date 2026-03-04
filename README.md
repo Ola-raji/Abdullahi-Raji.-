@@ -1,6 +1,6 @@
 # Hi, I'm Abdul!
 
-I am a curious **Financial Professional** and **Data Enthusiast** with an enduring interest in leveraging data to drive strategic financial decisions. 
+I am a curious **Financial Professional** and **Data Enthusiast** with an enduring interest in leveraging data in facilitating process improvement and in driving strategic decisions. 
 
 ---
 
