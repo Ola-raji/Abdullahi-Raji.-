@@ -6,7 +6,7 @@ I am a curious **Financial Professional** and **Data Enthusiast** with an enduri
 
 ### 📂 Featured Projects
 
-- #### [Nasdaq-100 Comparative Analysis Project](https://github.com/Ola-raji/Nasdaq-100-Comparative-Analysis-Project)
+- #### [Nasdaq-100 Comparative Analysis Project - Tableau](https://github.com/Ola-raji/Nasdaq-100-Comparative-Analysis-Project)
   A data-driven comparative analysis of some performance metrics of the Nasdaq-100.
   
 
