@@ -6,8 +6,8 @@ I am a curious cloud & finance  Professional and Data Enthusiast with an endurin
 
 ### 📂 Featured Projects
 
-- ### [Highly-Available-Three-Tier-Web-Architecture-on-AWS](https://github.com/Ola-raji/Highly-Available-Three-Tier-Web-Architecture-on-AWS)
-A hands-on cloud infrastructure project demonstrating a production-grade, highly available, reliable, scalable and fault-tolerant three-tier architecture on AWS, built from scratch using the AWS Management Console across two Availability Zones in us-east-1.
+- #### [Highly-Available-Three-Tier-Web-Architecture-on-AWS](https://github.com/Ola-raji/Highly-Available-Three-Tier-Web-Architecture-on-AWS)
+  A hands-on cloud infrastructure project demonstrating a production-grade, highly available, reliable, scalable and fault-tolerant three-tier architecture on AWS, built from scratch using the AWS Management Console across two Availability Zones in us-east-1.
 
 
 - #### [Nasdaq-100 Comparative Analysis Project - Tableau](https://github.com/Ola-raji/Nasdaq-100-Comparative-Analysis-Project)
@@ -22,8 +22,8 @@ A hands-on cloud infrastructure project demonstrating a production-grade, highly
   
 ---
 ### 🚀 Professional Focus and Interest 
+- FinOps
 - Financial Planning & Analysis (FP&A)
 - Data Analytics
-- FinOps
 - Business Analysis
 - Investment Analytics
