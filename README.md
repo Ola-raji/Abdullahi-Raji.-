@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul!
 
-I am a curious cloud & finance  Professional and Data Enthusiast with an enduring interest in leveraging data in facilitating process improvement and in driving strategic decisions. 
+I am a curious cloud & finance  professional and data enthusiast with an enduring interest in leveraging data in facilitating process improvement and in driving strategic decisions. 
 
 ---
 
