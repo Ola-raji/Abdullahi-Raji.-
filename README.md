@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul!
 
-I am a curious cloud & finance  professional and data enthusiast with an enduring interest in leveraging data in facilitating process improvement and in driving strategic decisions. 
+I am a 'resource-bender' with demonstrated expertise in IT finance management and aligning business strategy and investment mandates with technical capabilities. 
 
 ---
 
@@ -28,7 +28,7 @@ I am a curious cloud & finance  professional and data enthusiast with an endurin
   A high-level end-to-end volunteer undertaking for a premier Nigerian consulting firm. I functioned as the           business analyst leading the transition of a new brand into a high-authority digital ecosystem.
   
 ---
-### 🚀 Professional Focus and Interest 
+## 🚀 Professional Focus and Interest 
 - FinOps
 - Financial Planning & Analysis (FP&A)
 - Data Analytics
