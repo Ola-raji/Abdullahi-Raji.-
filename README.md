@@ -9,7 +9,7 @@ I am a 'resource-bender' with demonstrated expertise in IT finance management an
 ### Cloud Architecture and FinOps
 
 - #### [AWS-FinOps-Analysis-Internal-HR-Portal-Project](https://github.com/Ola-raji/AWS-FinOps-Analysis-Internal-HR-Portal-Project)
-  End-to-end FinOps analysis — cost visibility, optimization, and governance — applied to a production-grade, highly available three-tier AWS architecture serving as the infrastructure foundation for an internal read-only HR portal, grounded entirely in real AWS billing data.
+  End-to-end FinOps analysis (Inform, optimize and operate), applied to a production-grade, highly available three-tier AWS architecture serving as the infrastructure foundation for an internal read-only HR portal, grounded entirely in real AWS billing data.
 
 - #### [Highly-Available-Three-Tier-Web-Architecture-on-AWS](https://github.com/Ola-raji/Highly-Available-Three-Tier-Web-Architecture-on-AWS)
   A hands-on cloud infrastructure project demonstrating a production-grade, highly available, reliable, scalable and fault-tolerant three-tier architecture on AWS, built from scratch using the AWS Management Console across two Availability Zones in us-east-1.
