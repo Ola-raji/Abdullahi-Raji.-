@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul!
 
-I am a 'resource-bender' with demonstrated expertise in IT finance management and aligning business strategy and investment mandates with technical capabilities. 
+I am a multi-faceted finance professional with demonstrated expertise in aligning tech capabilities with business mandates. 
 
 ---
 
@@ -11,7 +11,7 @@ I am a 'resource-bender' with demonstrated expertise in IT finance management an
 - #### [AWS CUR FinOps Analysis (SQL)](https://github.com/Ola-raji/aws-cur-finops-analysis-SQL-/tree/main)
   End-to-end SQL analysis that takes raw AWS CUR Report (2.0) covering 16 days of an internal HR portal running on a 3-tier, highly available architecture and turns it into a clean dimensional model in PostgreSQL, then layers analytical SQL on top to extract custom insights that AWS-native tools (Cost Explorer, Budgets, Trust Advisor etc.) do not surface.
 
-- #### [AWS FinOps Analysis - Internal HR Portal Project](https://github.com/Ola-raji/AWS-FinOps-Analysis-Internal-HR-Portal-Project)
+- #### [AWS Cloud Financial Management (Inform, optimization and governance) - Internal HR Portal Project](https://github.com/Ola-raji/AWS-FinOps-Analysis-Internal-HR-Portal-Project)
   End-to-end FinOps analysis (Inform, optimize and operate), applied to a production-grade, highly available three-tier AWS architecture serving as the infrastructure foundation for an internal read-only HR portal, grounded entirely in real AWS billing data.
 
 - #### [Highly Available Three Tier Web Architecture on AWS](https://github.com/Ola-raji/Highly-Available-Three-Tier-Web-Architecture-on-AWS)
