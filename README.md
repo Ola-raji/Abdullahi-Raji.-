@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul!
 
-I am a multi-faceted finance professional with demonstrated expertise in aligning tech capabilities with business mandates. 
+I am a multi-faceted finance professional with demonstrated expertise in aligning tech capabilities with business outcomes. 
 
 ---
 
