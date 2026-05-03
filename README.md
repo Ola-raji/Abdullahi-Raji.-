@@ -27,7 +27,7 @@ I am a multi-faceted finance professional with demonstrated expertise in alignin
 
 ### Business Analysis 
 
-- #### [Lucid Point Consult: Business analysis - Requirements Engineering & Digital Implementation Framework)](https://github.com/Ola-raji/Lucid-Point-Consult-Strategic-Requirements-Engineering-Digital-Implementation-Framework)
+- #### [Lucid Point Consult - Requirements Engineering & Digital Implementation Framework](https://github.com/Ola-raji/Lucid-Point-Consult-Strategic-Requirements-Engineering-Digital-Implementation-Framework)
   A high-level end-to-end volunteer undertaking for a premier Nigerian consulting firm. I functioned as the           business analyst leading the transition of a new brand into a high-authority digital ecosystem.
   
 ---
