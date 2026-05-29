@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul!
 
-I am a finance professional with experience aligning tech capabilities with business outcomes. 
+I am a finance professional with experience managing tech capabilities in manifesting business outcomes. 
 
 ---
 
