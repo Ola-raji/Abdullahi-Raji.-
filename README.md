@@ -35,5 +35,4 @@ I am a finance professional with experience managing tech capabilities in manife
 - FinOps
 - Financial Planning & Analysis (FP&A)
 - Data Analytics
-- Investment Analytics
 - Business Analysis
