@@ -1,7 +1,5 @@
 ## Hi, I'm Abdul!
 
-I am a finance professional with experience in managing tech capabilities in manifesting business outcomes. 
-
 ---
 
 ## 📂 Featured Projects
