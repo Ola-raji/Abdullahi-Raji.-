@@ -18,9 +18,6 @@ I am a finance professional with experience in managing tech capabilities in man
   A hands-on cloud infrastructure project demonstrating a production-grade, highly available, reliable, scalable and fault-tolerant three-tier architecture on AWS, built from scratch using the AWS Management Console across two Availability Zones in us-east-1.
 
 ### Data analysis 
-
-- #### [Nasdaq100 Comparative Analysis Project (Tableau](https://github.com/Ola-raji/Nasdaq-100-Comparative-Analysis-Project)
-  A data-driven comparative analysis of some performance metrics of the Nasdaq-100.
   
 - ####  [Crowe Inc. Financial Performance Visualized (PowerBI)](https://github.com/Ola-raji/Crowe-Inc.---Financial-Performance-Analysis-Visualised---Powerbi-/blob/main/README.md)
   This project involves the end-to-end processing of two years of fiscal data (2019–2020), transforming raw journal   entries into a high-level executive income statement dashboard for a fictitious Canadian SME operating within the   manufacturing sector.
