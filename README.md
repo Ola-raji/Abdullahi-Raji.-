@@ -1,6 +1,5 @@
 ## Hi, I'm Abdul!
 
----
 
 ## 📂 Featured Projects
 
@@ -23,5 +22,6 @@
 ---
 ## 🚀 Professional Focus and Interest 
 - FinOps
+- Cloud Engineering 
 - Financial Planning & Analysis (FP&A)
 - Data Analytics
